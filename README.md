@@ -1,4 +1,5 @@
 Formulario de Confirmación de Asistencia UNS
+
 Esta aplicación móvil ha sido desarrollada como parte de un proyecto académico de la Universidad Nacional del Santa, con el objetivo de gestionar la confirmación de asistencia de los estudiantes de la Escuela Profesional de Ingeniería de Sistemas al desfile de San Pedrito 2024.
 
 Características principales:
